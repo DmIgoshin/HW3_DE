@@ -249,6 +249,8 @@ group by 1,2
 having count(oi.quantity) = 0
 ```
 
+Первые 3 клиента - с максимальной суммой транзакций. Остальные 3 - с минимальной
+
 ![This is an alt text.](/image/5.png "This is a sample image.")
 
 ### Задача 6. 
